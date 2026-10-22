@@ -1,0 +1,659 @@
+{
+  "first": 1,
+  "last": 130,
+  "filetype": ".mp4",
+  "folder": "data",
+  "example": "data/001 Kuťáci.mp4",
+  "episodes": [
+    {
+      "num": 1,
+      "sk": "Kuťáci",
+      "url": "data/001 Kuťáci.mp4"
+    },
+    {
+      "num": 2,
+      "sk": "Tapety",
+      "url": "data/002 Tapety.mp4"
+    },
+    {
+      "num": 3,
+      "sk": "Dielňa",
+      "url": "data/003 Dielňa.mp4"
+    },
+    {
+      "num": 4,
+      "sk": "Koberec",
+      "url": "data/004 Koberec.mp4"
+    },
+    {
+      "num": 5,
+      "sk": "Hojdacie kreslo",
+      "url": "data/005 Hojdacie kreslo.mp4"
+    },
+    {
+      "num": 6,
+      "sk": "Obraz",
+      "url": "data/006 Obraz.mp4"
+    },
+    {
+      "num": 7,
+      "sk": "Garáž",
+      "url": "data/007 Garáž.mp4"
+    },
+    {
+      "num": 8,
+      "sk": "Svetlo",
+      "url": "data/008 Svetlo.mp4"
+    },
+    {
+      "num": 9,
+      "sk": "Gramofón",
+      "url": "data/009 Gramofón.mp4"
+    },
+    {
+      "num": 10,
+      "sk": "Grill",
+      "url": "data/010 Grill.mp4"
+    },
+    {
+      "num": 11,
+      "sk": "Sťahovanie",
+      "url": "data/011 Sťahovanie.mp4"
+    },
+    {
+      "num": 12,
+      "sk": "Voda",
+      "url": "data/012 Voda.mp4"
+    },
+    {
+      "num": 13,
+      "sk": "Záhradka",
+      "url": "data/013 Záhradka.mp4"
+    },
+    {
+      "num": 14,
+      "sk": "Maľovanie",
+      "url": "data/014 Maľovanie.mp4"
+    },
+    {
+      "num": 15,
+      "sk": "Skokani",
+      "url": "data/015 Skokani.mp4"
+    },
+    {
+      "num": 16,
+      "sk": "Krížovka",
+      "url": "data/016 Krížovka.mp4"
+    },
+    {
+      "num": 17,
+      "sk": "Búdka",
+      "url": "data/017 Búdka.mp4"
+    },
+    {
+      "num": 18,
+      "sk": "Veľké pranie",
+      "url": "data/018 Veľké pranie.mp4"
+    },
+    {
+      "num": 19,
+      "sk": "Telocvičňa",
+      "url": "data/019 Telocvičňa.mp4"
+    },
+    {
+      "num": 20,
+      "sk": "Raňajky v tráve",
+      "url": "data/020 Raňajky v tráve.mp4"
+    },
+    {
+      "num": 21,
+      "sk": "Práčka",
+      "url": "data/021 Práčka.mp4"
+    },
+    {
+      "num": 22,
+      "sk": "Dážď",
+      "url": "data/022 Dážď.mp4"
+    },
+    {
+      "num": 23,
+      "sk": "Výlet",
+      "url": "data/023 Výlet.mp4"
+    },
+    {
+      "num": 24,
+      "sk": "Vinári",
+      "url": "data/024 Vinári.mp4"
+    },
+    {
+      "num": 25,
+      "sk": "Korčule",
+      "url": "data/025 Korčule.mp4"
+    },
+    {
+      "num": 26,
+      "sk": "Klavír",
+      "url": "data/026 Klavír.mp4"
+    },
+    {
+      "num": 27,
+      "sk": "Hrnčiari",
+      "url": "data/027 Hrnčiari.mp4"
+    },
+    {
+      "num": 28,
+      "sk": "Porucha",
+      "url": "data/028 Porucha.mp4"
+    },
+    {
+      "num": 29,
+      "sk": "Jablko",
+      "url": "data/029 Jablko.mp4"
+    },
+    {
+      "num": 30,
+      "sk": "Klíč",
+      "url": "data/030 Klíč.mp4"
+    },
+    {
+      "num": 31,
+      "sk": "Nábytek",
+      "url": "data/031 Nábytek.mp4"
+    },
+    {
+      "num": 32,
+      "sk": "Sekačka",
+      "url": "data/032 Sekačka.mp4"
+    },
+    {
+      "num": 33,
+      "sk": "Generální úklid",
+      "url": "data/033 Generální úklid.mp4"
+    },
+    {
+      "num": 34,
+      "sk": "Střecha",
+      "url": "data/034 Střecha.mp4"
+    },
+    {
+      "num": 35,
+      "sk": "Dveře",
+      "url": "data/035 Dveře.mp4"
+    },
+    {
+      "num": 36,
+      "sk": "Sušenky",
+      "url": "data/036 Sušenky.mp4"
+    },
+    {
+      "num": 37,
+      "sk": "Vrata",
+      "url": "data/037 Vrata.mp4"
+    },
+    {
+      "num": 38,
+      "sk": "Cyklisti",
+      "url": "data/038 Cyklisti.mp4"
+    },
+    {
+      "num": 39,
+      "sk": "Dlaždice",
+      "url": "data/039 Dlaždice.mp4"
+    },
+    {
+      "num": 40,
+      "sk": "Parkety",
+      "url": "data/040 Parkety.mp4"
+    },
+    {
+      "num": 41,
+      "sk": "Okap",
+      "url": "data/041 Okap.mp4"
+    },
+    {
+      "num": 42,
+      "sk": "Kabriolet",
+      "url": "data/042 Kabriolet.mp4"
+    },
+    {
+      "num": 43,
+      "sk": "Nehoda",
+      "url": "data/043 Nehoda.mp4"
+    },
+    {
+      "num": 44,
+      "sk": "Kulečník",
+      "url": "data/044 Kulečník.mp4"
+    },
+    {
+      "num": 45,
+      "sk": "Živý plot",
+      "url": "data/045 Živý plot.mp4"
+    },
+    {
+      "num": 46,
+      "sk": "Trezor",
+      "url": "data/046 Trezor.mp4"
+    },
+    {
+      "num": 47,
+      "sk": "Blatník",
+      "url": "data/047 Blatník.mp4"
+    },
+    {
+      "num": 48,
+      "sk": "Modeláři",
+      "url": "data/048 Modeláři.mp4"
+    },
+    {
+      "num": 49,
+      "sk": "Windsurfing",
+      "url": "data/049 Windsurfing.mp4"
+    },
+    {
+      "num": 50,
+      "sk": "Karty",
+      "url": "data/050 Karty.mp4"
+    },
+    {
+      "num": 51,
+      "sk": "Puzzle",
+      "url": "data/051 Puzzle.mp4"
+    },
+    {
+      "num": 52,
+      "sk": "Opekaji spekáčky",
+      "url": "data/052 Opekaji spekáčky.mp4"
+    },
+    {
+      "num": 53,
+      "sk": "Opravují střechu",
+      "url": "data/053 Opravují střechu.mp4"
+    },
+    {
+      "num": 54,
+      "sk": "Černá bedýnka",
+      "url": "data/054 Černá bedýnka.mp4"
+    },
+    {
+      "num": 55,
+      "sk": "Kolečka",
+      "url": "data/055 Kolečka.mp4"
+    },
+    {
+      "num": 56,
+      "sk": "Psí bouda",
+      "url": "data/056 Psí bouda.mp4"
+    },
+    {
+      "num": 57,
+      "sk": "Natírají podlahu",
+      "url": "data/057 Natírají podlahu.mp4"
+    },
+    {
+      "num": 58,
+      "sk": "Skleník",
+      "url": "data/058 Skleník.mp4"
+    },
+    {
+      "num": 59,
+      "sk": "Houpačka",
+      "url": "data/059 Houpačka.mp4"
+    },
+    {
+      "num": 60,
+      "sk": "Nezvaný návštěvník",
+      "url": "data/060 Nezvaný návštěvník.mp4"
+    },
+    {
+      "num": 61,
+      "sk": "Bodygárdi",
+      "url": "data/061 Bodygárdi.mp4"
+    },
+    {
+      "num": 62,
+      "sk": "Natírají okna",
+      "url": "data/062 Natírají okna.mp4"
+    },
+    {
+      "num": 63,
+      "sk": "Velikonoční vajíčko",
+      "url": "data/063 Velikonoční vajíčko.mp4"
+    },
+    {
+      "num": 64,
+      "sk": "Štíhlá linie",
+      "url": "data/064 Štíhlá linie.mp4"
+    },
+    {
+      "num": 65,
+      "sk": "Automat",
+      "url": "data/065 Automat.mp4"
+    },
+    {
+      "num": 66,
+      "sk": "Autodráha",
+      "url": "data/066 Autodráha.mp4"
+    },
+    {
+      "num": 67,
+      "sk": "Akvárium",
+      "url": "data/067 Akvárium.mp4"
+    },
+    {
+      "num": 68,
+      "sk": "Zavařují",
+      "url": "data/068 Zavařují.mp4"
+    },
+    {
+      "num": 69,
+      "sk": "Rogalo",
+      "url": "data/069 Rogalo.mp4"
+    },
+    {
+      "num": 70,
+      "sk": "Vánočka",
+      "url": "data/070 Vánočka.mp4"
+    },
+    {
+      "num": 71,
+      "sk": "Stůňou",
+      "url": "data/071 Stůňou.mp4"
+    },
+    {
+      "num": 72,
+      "sk": "Fax",
+      "url": "data/072 Fax.mp4"
+    },
+    {
+      "num": 73,
+      "sk": "Jahody",
+      "url": "data/073 Jahody.mp4"
+    },
+    {
+      "num": 74,
+      "sk": "Hrají golf",
+      "url": "data/074 Hrají golf.mp4"
+    },
+    {
+      "num": 75,
+      "sk": "Někam to zapadlo",
+      "url": "data/075 Někam to zapadlo.mp4"
+    },
+    {
+      "num": 76,
+      "sk": "Kopají bazén",
+      "url": "data/076 Kopají bazén.mp4"
+    },
+    {
+      "num": 77,
+      "sk": "Věší krajinu",
+      "url": "data/077 Věší krajinu.mp4"
+    },
+    {
+      "num": 78,
+      "sk": "Vánoční stromeček",
+      "url": "data/078 Vánoční stromeček.mp4"
+    },
+    {
+      "num": 79,
+      "sk": "Postele",
+      "url": "data/079 Postele.mp4"
+    },
+    {
+      "num": 80,
+      "sk": "Vodovod",
+      "url": "data/080 Vodovod.mp4"
+    },
+    {
+      "num": 81,
+      "sk": "Papírový servis",
+      "url": "data/081 Papírový servis.mp4"
+    },
+    {
+      "num": 82,
+      "sk": "Promítačka",
+      "url": "data/082 Promítačka.mp4"
+    },
+    {
+      "num": 83,
+      "sk": "Vysavač",
+      "url": "data/083 Vysavač.mp4"
+    },
+    {
+      "num": 84,
+      "sk": "Bazén",
+      "url": "data/084 Bazén.mp4"
+    },
+    {
+      "num": 85,
+      "sk": "Podlaha",
+      "url": "data/085 Podlaha.mp4"
+    },
+    {
+      "num": 86,
+      "sk": "Suchý strom",
+      "url": "data/086 Suchý strom.mp4"
+    },
+    {
+      "num": 87,
+      "sk": "Pomerančová šťáva",
+      "url": "data/087 Pomerančová šťáva.mp4"
+    },
+    {
+      "num": 88,
+      "sk": "Rotoped",
+      "url": "data/088 Rotoped.mp4"
+    },
+    {
+      "num": 89,
+      "sk": "Kaktus",
+      "url": "data/089 Kaktus.mp4"
+    },
+    {
+      "num": 90,
+      "sk": "Obkladačky",
+      "url": "data/090 Obkladačky.mp4"
+    },
+    {
+      "num": 91,
+      "sk": "Sluneční clona (Osłona przeciwsłoneczna)webm",
+      "url": "data/091 Sluneční clona (Osłona przeciwsłoneczna)webm.mp4"
+    },
+    {
+      "num": 92,
+      "sk": "Včely",
+      "url": "data/092 Včely.mp4"
+    },
+    {
+      "num": 93,
+      "sk": "Sekačka",
+      "url": "data/093 Sekačka.mp4"
+    },
+    {
+      "num": 94,
+      "sk": "Krtek",
+      "url": "data/094 Krtek.mp4"
+    },
+    {
+      "num": 95,
+      "sk": "Plot",
+      "url": "data/095 Plot.mp4"
+    },
+    {
+      "num": 96,
+      "sk": "Ucpaný komín",
+      "url": "data/096 Ucpaný komín.mp4"
+    },
+    {
+      "num": 97,
+      "sk": "Větrná Elektrárna",
+      "url": "data/097 Větrná Elektrárna.mp4"
+    },
+    {
+      "num": 98,
+      "sk": "Skalka",
+      "url": "data/098 Skalka.mp4"
+    },
+    {
+      "num": 99,
+      "sk": "Rodeo",
+      "url": "data/099 Rodeo.mp4"
+    },
+    {
+      "num": 100,
+      "sk": "Kolotoč",
+      "url": "data/100 Kolotoč.mp4"
+    },
+    {
+      "num": 101,
+      "sk": "Myčka",
+      "url": "data/101 Myčka.mp4"
+    },
+    {
+      "num": 102,
+      "sk": "Ucpaný Odpad",
+      "url": "data/102 Ucpaný Odpad.mp4"
+    },
+    {
+      "num": 103,
+      "sk": "Schody",
+      "url": "data/103 Schody.mp4"
+    },
+    {
+      "num": 104,
+      "sk": "Kamera",
+      "url": "data/104 Kamera.mp4"
+    },
+    {
+      "num": 105,
+      "sk": "Kalamita",
+      "url": "data/105 Kalamita.mp4"
+    },
+    {
+      "num": 106,
+      "sk": "Vánoční světýlka",
+      "url": "data/106 Vánoční světýlka.mp4"
+    },
+    {
+      "num": 107,
+      "sk": "Sauna",
+      "url": "data/107 Sauna.mp4"
+    },
+    {
+      "num": 108,
+      "sk": "Betlém",
+      "url": "data/108 Betlém.mp4"
+    },
+    {
+      "num": 109,
+      "sk": "Stromeček",
+      "url": "data/109 Stromeček.mp4"
+    },
+    {
+      "num": 110,
+      "sk": "Dárky",
+      "url": "data/110 Dárky.mp4"
+    },
+    {
+      "num": 111,
+      "sk": "Silvestr",
+      "url": "data/111 Silvestr.mp4"
+    },
+    {
+      "num": 112,
+      "sk": "Novoroční přání",
+      "url": "data/112 Novoroční přání.mp4"
+    },
+    {
+      "num": 113,
+      "sk": "Bramborový salát",
+      "url": "data/113 Bramborový salát.mp4"
+    },
+    {
+      "num": 114,
+      "sk": "Kapr",
+      "url": "data/114 Kapr.mp4"
+    },
+    {
+      "num": 115,
+      "sk": "Perníková chaloupka",
+      "url": "data/115 Perníková chaloupka.mp4"
+    },
+    {
+      "num": 116,
+      "sk": "Ledovka",
+      "url": "data/116 Ledovka.mp4"
+    },
+    {
+      "num": 117,
+      "sk": "Iglú",
+      "url": "data/117 Iglú.mp4"
+    },
+    {
+      "num": 118,
+      "sk": "Palačinky",
+      "url": "data/118 Palačinky.mp4"
+    },
+    {
+      "num": 119,
+      "sk": "Létající stroj",
+      "url": "data/119 Létající stroj.mp4"
+    },
+    {
+      "num": 120,
+      "sk": "Popcorn",
+      "url": "data/120 Popcorn.mp4"
+    },
+    {
+      "num": 121,
+      "sk": "Nábytek",
+      "url": "data/121 Nábytek.mp4"
+    },
+    {
+      "num": 122,
+      "sk": "Automyčka",
+      "url": "data/122 Automyčka.mp4"
+    },
+    {
+      "num": 123,
+      "sk": "Sklizeň",
+      "url": "data/123 Sklizeň.mp4"
+    },
+    {
+      "num": 124,
+      "sk": "Fotopast",
+      "url": "data/124 Fotopast.mp4"
+    },
+    {
+      "num": 125,
+      "sk": "Výroba ledu",
+      "url": "data/125 Výroba ledu.mp4"
+    },
+    {
+      "num": 126,
+      "sk": "Potrubní pošta",
+      "url": "data/126 Potrubní pošta.mp4"
+    },
+    {
+      "num": 127,
+      "sk": "Barbecue",
+      "url": "data/127 Barbecue.mp4"
+    },
+    {
+      "num": 128,
+      "sk": "Pizza",
+      "url": "data/128 Pizza.mp4"
+    },
+    {
+      "num": 129,
+      "sk": "Chleba",
+      "url": "data/129 Chleba.mp4"
+    },
+    {
+      "num": 130,
+      "sk": "Garážová Vrata",
+      "url": "data/130 Garážová Vrata.mp4"
+    }
+  ]
+}
